@@ -30,7 +30,7 @@ csdn_username: 1161694014@qq.com
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 # permalink: pretty
-paginate: 20
+paginate: 5
 paginate_path: "page:num"
 # 转换时排除某些文件夹或文件。被排除的文件或文件夹的路径是相对于网站源码目录的，源码目录以外不受影响。
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
@@ -97,11 +97,11 @@ friends: [
         title: "CSDN·hsh0107",
         href: "https://blog.csdn.net/qq_39268193"
     },{
-        title: "知乎·hsh0107",
-        href: "https://www.zhihu.com/people/RainbomSea"
+        title: "魔幻云",
+        href: "http://blog.magiccloudnet.com"
     },{
-        title: "GitBook·hsh0107",
-        href: "https://legacy.gitbook.com/@rainbomsea"
+        title: "杨保长",
+        href: "https://www.zksfyz.com/"
     }
 ]
 
