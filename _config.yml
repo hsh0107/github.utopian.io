@@ -91,16 +91,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·hsh0107",
-        href: "http://hsh0107.github.io"
-    },{
-        title: "CSDN·hsh0107",
-        href: "https://blog.csdn.net/qq_39268193"
-    },{
-        title: "魔幻云",
+        title: "杨保长的魔幻云",
         href: "http://blog.magiccloudnet.com"
     },{
-        title: "杨保长",
+        title: "杨保长的博客",
         href: "https://www.zksfyz.com/"
     }
 ]
